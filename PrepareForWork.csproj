@@ -62,6 +62,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="OrderTransferRequestMaster.cs" />
     <Compile Include="OrderTransferRequestTransaction.cs" />
     <Compile Include="Export.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
